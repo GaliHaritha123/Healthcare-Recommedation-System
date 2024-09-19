@@ -1,1 +1,1 @@
-
+The project uses machine learning techniques like Clustering, Random Forest, Linear Regression, and TensorFlow/Keras to analyze patient data, provide personalized health recommendations, and deliver tailored advice.
